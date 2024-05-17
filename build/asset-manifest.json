@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.949f880f.css",
+    "main.js": "/static/js/main.46b8ebd9.js",
+    "static/media/grades LR_alg.csv": "/static/media/grades LR_alg.95ef281044e79dbde59c.csv",
+    "index.html": "/index.html",
+    "static/media/vertices LR_alg.csv": "/static/media/vertices LR_alg.1e31bcad993886c3f236.csv",
+    "main.949f880f.css.map": "/static/css/main.949f880f.css.map",
+    "main.46b8ebd9.js.map": "/static/js/main.46b8ebd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.949f880f.css",
+    "static/js/main.46b8ebd9.js"
+  ]
+}
